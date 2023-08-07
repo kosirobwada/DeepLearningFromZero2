@@ -1,0 +1,2 @@
+# DeepLearningFromZero
+0から作るDeepLearningの2を実装していきます。
